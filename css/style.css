@@ -1,0 +1,116 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: rgba(201, 204, 206, 0.511);
+}
+
+main {
+  background-color: rgb(245, 237, 237);
+  padding-bottom: 10px;
+}
+.container {
+  max-width: 1350px;
+  margin: 0 auto;
+}
+
+section {
+  margin-bottom: 10px;
+}
+.wrapper_h1 {
+  display: flex;
+  justify-content: center;;
+}
+h1 {
+  display: inline;
+  text-align: center;
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li {
+  list-style: none;
+}
+header .wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.info_wrapper {
+  display: flex;
+}
+
+.data {
+  margin-left: 50px;
+}
+
+.photo {
+  width: 170px;
+  height: 225px;
+  margin-right: 100px;
+  border-radius: 100%;
+  margin-top: -35px;
+  margin-bottom: 20px;
+}
+
+.wrapper_skills {
+  display: flex;
+}
+
+.soft_skills {
+  margin-left: 50px;
+}
+
+.uber {
+  width: 250px;
+  height: 150px;
+}
+.scopes {
+  display: block;
+  width: 500px;
+  background-color: black;
+  color: rgba(53, 192, 234, 0.696);
+}
+
+
+pre {
+  margin-top: 0;
+}
+
+.scopes ul {
+  margin: 0;
+}
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(154, 68, 141, 0.155);
+}
+
+footer p {
+font-size: 30px;
+}
+
+.git {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.git_logo {
+  width: 100px;
+  height: 100px;
+}
+.rs_logo {
+  width: 100px;
+  height: 100px;
+}
+
