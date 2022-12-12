@@ -80,10 +80,10 @@ header .wrapper {
   background-color: black;
   color: red;
 }
-.scopes span {
+.scopes p {
   color: rgb(246, 255, 0);
 }
-.blue {
+.scopes span{
   color: rgb(0, 153, 255);
   margin-top: 0;
 }
