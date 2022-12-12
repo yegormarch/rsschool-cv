@@ -1,4 +1,4 @@
-Curriculum Vitae 
+Curriculum Vitae  Iegor Marchenko
 
 
 Personal Info: 
@@ -8,10 +8,10 @@ Nationality:                        Ukrainian
 Full Address:                      Moscow, Shcherbinka, Pushkinskaya street 25, ap.14
 Mob tel.:                             +7 916-499-7112
 e-mail:                                 marchenko.yegor@gmail.com
-Skype:                                  live:marchenko.yegor
 Position applied for:           Sommelier
 
-Foreign Languages      
+Foreign Languages 
+  Ukranian - native   
 ●	Russian – native
 ●	English – fluent
 
