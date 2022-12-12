@@ -78,15 +78,9 @@ header .wrapper {
   display: block;
   width: 500px;
   background-color: black;
-  color: red;
+  color: rgba(53, 192, 234, 0.696);
 }
-.scopes p {
-  color: rgb(246, 255, 0);
-}
-.scopes span{
-  color: rgb(0, 153, 255);
-  margin-top: 0;
-}
+
 
 pre {
   margin-top: 0;
