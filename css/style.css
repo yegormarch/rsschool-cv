@@ -11,7 +11,7 @@ main {
   padding-bottom: 10px;
 }
 .container {
-  width: 1350px;
+  max-width: 1350px;
   margin: 0 auto;
 }
 
@@ -62,7 +62,7 @@ header .wrapper {
   margin-bottom: 20px;
 }
 
-.skills {
+.wrapper_skills {
   display: flex;
 }
 
