@@ -40,7 +40,7 @@ h2 {
 nav ul li {
   list-style: none;
 }
-header .wrapper {
+.promo .wrapper {
   display: flex;
   justify-content: space-between;
 }
